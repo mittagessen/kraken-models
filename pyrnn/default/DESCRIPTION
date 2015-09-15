@@ -2,5 +2,6 @@
 "summary": "A converted version of en-default.pyrnn.gz",
 "author": "unknown",
 "author-email": "unknown",
-"license": "Apache 2.0"
+"license": "Apache 2.0",
+"name": "en-default.pyrnn.hdf5"
 }
