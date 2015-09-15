@@ -1,1 +1,7 @@
-A toy model trained on 400 lines of the UW3 data set.
+{
+'summary': 'A toy model trained on 400 lines of the UW3 data set.',
+'author': 'Benjamin Kiessling',
+'author-email': 'mittagessen@l.unchti.me',
+'license': 'Apache 2.0',
+'url': 'http://kraken.re'
+}
