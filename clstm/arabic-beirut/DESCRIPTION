@@ -1,0 +1,10 @@
+{
+"summary": "An experimental model for Classical Arabic texts.",
+"description": "Network trained on 1366 lines of [0] as a test case for a general Classical Arabic model. Ground truth was prepared by Sarah Savant <sarah.savant@aku.edu> and Maxim Romanov <maxim.romanov@uni-leipzig.de>.\n\nVocalization was omitted in the ground truth. Training was stopped at ~35000 iterations with an accuracy of 97.5%.\n\n[0] Ibn al-Faq\u012bh (d. 365 AH). Kit\u0101b al-buld\u0101n. Edited by Y\u016bsuf al-H\u0101d\u012b, 1st edition. Bayr\u016bt: \u02bf\u0100lam al-kutub, 1416 AH/1996 CE.",
+"author": "Benjamin Kiessling",
+"author-email": "kiessling@dh.uni-leipzig.de",
+"license": "Apache 2.0",
+"url": "http://kraken.re",
+"graphemes": [" ", "!", "(", ")", "-", ".", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", ":", "[", "]", "\u00a0", "\u00ab", "\u00bb", "\u060c", "\u061f", "\u0621", "\u0627", "\u0628", "\u0629", "\u062a", "\u062b", "\u062c", "\u062d", "\u062e", "\u062f", "\u0630", "\u0631", "\u0632", "\u0633", "\u0634", "\u0635", "\u0636", "\u0637", "\u0638", "\u0639", "\u063a", "\u0641", "\u0642", "\u0643", "\u0644", "\u0645", "\u0646", "\u0647", "\u0648", "\u0649", "\u064a", "\u0653", "\u0654", "\u0655"],
+"name": "arabic-beirut.clstm"
+}
