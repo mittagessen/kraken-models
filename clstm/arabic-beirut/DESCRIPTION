@@ -1,6 +1,6 @@
 {
 "summary": "An experimental model for Classical Arabic texts.",
-"description": "Network trained on 1366 lines of [0] as a test case for a general Classical Arabic model. Ground truth was prepared by Sarah Savant <sarah.savant@aku.edu> and Maxim Romanov <maxim.romanov@uni-leipzig.de>.\n\nVocalization was omitted in the ground truth. Training was stopped at ~35000 iterations with an accuracy of 97.5%.\n\n[0] Ibn al-Faq\u012bh (d. 365 AH). Kit\u0101b al-buld\u0101n. Edited by Y\u016bsuf al-H\u0101d\u012b, 1st edition. Bayr\u016bt: \u02bf\u0100lam al-kutub, 1416 AH/1996 CE.",
+"description": "Network trained on 1366 lines of [0] as a test case for a general Classical Arabic model. Ground truth was prepared by Sarah Savant <sarah.savant@aku.edu> and Maxim Romanov <maxim.romanov@uni-leipzig.de>.\n\nVocalization was omitted in the ground truth. Training was stopped at ~48000 iterations with an accuracy of 97.5%.\n\n[0] Ibn al-Faq\u012bh (d. 365 AH). Kit\u0101b al-buld\u0101n. Edited by Y\u016bsuf al-H\u0101d\u012b, 1st edition. Bayr\u016bt: \u02bf\u0100lam al-kutub, 1416 AH/1996 CE.",
 "author": "Benjamin Kiessling",
 "author-email": "kiessling@dh.uni-leipzig.de",
 "license": "Apache 2.0",
