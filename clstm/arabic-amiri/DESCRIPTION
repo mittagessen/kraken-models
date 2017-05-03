@@ -4,5 +4,6 @@
 "author-email": "mittagessen@l.unchti.me",
 "license": "Apache 2.0",
 "url": "http://kraken.re",
-"name": "arabic.clstm"
+"name": "arabic.clstm",
+"script": ["Arab"]
 }
