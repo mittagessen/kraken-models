@@ -1,0 +1,13 @@
+{
+    "author": "Benjamin Kiessling",
+    "author-email": "kiessling@dh.uni-leipzig.de",
+    "description": "Network trained on 11290 lines of miscellaneous transcriptions to recognize some scripts (Latin, Arabic, Greek, and Syriac). Identifiers are Unicode blocks mapped into the Unicode PUA by adding their indizes to 0xF0000. Training was stopped after 10 epochs with ~92% character accuracy. See the attached blocks.json for an explicit mapping and rewrite.py for transformation of prepared ground truth.",
+    "graphemes": ["\udb80\udc00", "\udb80\udc01", "\udb80\udc02", "\udb80\udc06", "\udb80\udc07", "\udb80\udc0c", "\udb80\udc0d", "\udb80\udc43", "\udb80\udc44", "\udb80\udc95", "\udb80\udc9e", "\udb65\udd70"],
+    "license": "Apache",
+    "name": "script.clstm",
+    "script": [
+        "Zyyy"
+    ],
+    "summary": "A model for script classification",
+    "url": "http://kraken.re"
+}
