@@ -1,7 +1,7 @@
 {
     "author": "Benjamin Kiessling",
     "author-email": "kiessling@dh.uni-leipzig.de",
-    "description": "Network trained on 878 lines of classical Syriac text typeset in the Monotype font. Ground truth was prepared by George Kiraz. Training was stopped at around 99.4% accuracy for Syriac characers.",
+    "description": "Network trained on 878 lines of classical Syriac text typeset in the Monotype Estrangela font. Ground truth was prepared by George Kiraz. Training was stopped at around 99.4% accuracy for Syriac characers.",
     "graphemes": [
         " ",
         "*",
