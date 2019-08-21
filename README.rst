@@ -1,3 +1,9 @@
+.. warning::
+   This repository is out of date. Kraken has moved to a new zenodo based
+   repository, i.e. this repository won't be updated in the future and listing
+   the available models through `kraken list` is not in any way connected to
+   the data here.
+
 kraken-models
 =============
 
